@@ -18,3 +18,4 @@ Cобрать проект без запуска:
 
 <b>docker-compose  down</b>
 
+![alt text](https://github.com/KozhNat/docker/blob/master/Скриншот%2025-12-2022%20152035.png)
